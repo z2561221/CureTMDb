@@ -93,20 +93,5 @@
         "episode_count": 24
       }
     ]
-  },
-  "30984": {
-    "name": "死神",
-    "seasons": [
-      {
-        "season_number": 1,
-        "name": "本篇",
-        "episode_count": 366
-      },
-      {
-        "season_number": 2,
-        "name": "千年血战篇",
-        "episode_count": 41
-      }
-    ]
   }
 }
