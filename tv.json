@@ -100,7 +100,7 @@
       {
         "season_number": 0,
         "name": "特别篇",
-        "episode_count": 999
+        "episode_count": 4
       },
       {
         "season_number": 1,
@@ -109,8 +109,7 @@
       },
       {
         "season_number": 2,
-        "name": "千年血战篇",
-        "episode_count": 999
+        "name": "千年血战篇"
       }
     ]
   }
